@@ -13,3 +13,6 @@ mvn exec:java -Dexec.mainClass="com.example.myapp.App"
 ```
 
 ### The application is a sample and not well testing yet.
+
+
+[The reference guide is here](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/examples-ec2-instances.html)
